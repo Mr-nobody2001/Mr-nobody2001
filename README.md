@@ -1,7 +1,7 @@
 # Olá, me chamo Gabriel Barbosa e esse é meu Github
 
 
-Here are some ideas to get you started:
+Esses são os cinquenta (** - quarenta e cinco**) fatos sobre mim:
 
 - 🔭 Atualmente ainda não estou trabalhando em nenhum projeto 
 - 🌱 Estou aprendendo a melhorar a responsividade e a fluidez dos meus sites com css (**css avançado**) 

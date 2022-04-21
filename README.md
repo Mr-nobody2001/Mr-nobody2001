@@ -10,7 +10,7 @@ Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
 - ⚡ Fato engraçado: algumas vezes (_pra não dizer sempre_) eu acabo sonhando com programação (_espero que não seja só eu_)
 
 <div align="center">
-  <a href="https://github.com/Mr-nobody2001/Mr-nobody2001">
+  <a href="https://github.com/Mr-nobody2001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>

@@ -11,8 +11,8 @@ Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
 
 <div align="center">
   <a href="https://github.com/Mr-nobody2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-nobody2001&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-nobody2001&layout=compact&langs_count=7&theme=shades-of-purple&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-nobody2001&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-nobody2001&layout=compact&langs_count=7&theme=merko&hide_border=true&locale=pt-br"/>
 </div>
 
  <div style="display: inline_block"><br>

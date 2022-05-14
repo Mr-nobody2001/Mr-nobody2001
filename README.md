@@ -11,11 +11,12 @@ Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
 
 <div align="center">
   <a href="https://github.com/Mr-nobody2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-nobody2001&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif" widt="300px" height="300px">
+  <img style="display: block," height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-nobody2001&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-nobody2001&layout=compact&langs_count=7&theme=merko&hide_border=true&locale=pt-br"/>
 </div>
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block, margin: auto"><br>
   <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

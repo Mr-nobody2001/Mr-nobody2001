@@ -1,9 +1,8 @@
 # Olá, me chamo Gabriel Barbosa e esse é meu Github
 
-
 Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
 
-- 🔭 Atualmente ainda não estou trabalhando em nenhum projeto 
+- 🔭 Atualmente estou no curso de Análise e Desenvolvimento de Sistemas na PUC-Goiás (Pontifícia Universidade Católica)
 - 🌱 Estou aprendendo a melhorar a responsividade e a fluidez dos meus sites com css (_css avançado_) 
 - 🤔 Procuro ajuda de todo programador (_experiente ou iniciante_) que possa me ajudar a melhorar então sinta-se livre para opinar e dar sugestões
 - 💬 Pergunte-me qualquer coisa sobre programação web e teremos uma conversa bem longa...
@@ -21,8 +20,3 @@ Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
   
-  <div align="center">
-    <img src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif" widt="300px" height="300px">
-  </div>
-
-   

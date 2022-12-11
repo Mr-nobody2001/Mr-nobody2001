@@ -3,7 +3,7 @@
 Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
 
 - 🔭 Atualmente estou no curso de Análise e Desenvolvimento de Sistemas na PUC-Goiás (Pontifícia Universidade Católica)
-- 🌱 Estou aprendendo a melhorar a responsividade e a fluidez dos meus sites com css (_css avançado_) 
+- 🌱 Estou aprendendo Java e orientação a ojetos (famosa Poo) 
 - 🤔 Procuro ajuda de todo programador (_experiente ou iniciante_) que possa me ajudar a melhorar então sinta-se livre para opinar e dar sugestões
 - 💬 Pergunte-me qualquer coisa sobre programação web e teremos uma conversa bem longa...
 - ⚡ Fato engraçado: algumas vezes (_pra não dizer sempre_) eu acabo sonhando com programação (_espero que não seja só eu_)

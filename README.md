@@ -2,11 +2,11 @@
 
 Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
 
-- 🔭 Atualmente estou no curso de Análise e Desenvolvimento de Sistemas na PUC-Goiás (Pontifícia Universidade Católica)
-- 🌱 Estou aprendendo Java e orientação a objetos (famosa Poo) 
-- 🤔 Procuro ajuda de todo programador (_experiente ou iniciante_) que possa me ajudar a melhorar então sinta-se livre para opinar e dar sugestões
-- 💬 Pergunte-me qualquer coisa sobre programação web e teremos uma conversa bem longa...
-- ⚡ Fato engraçado: algumas vezes (_pra não dizer sempre_) eu acabo sonhando com programação (_espero que não seja só eu_)
+- Análise e Desenvolvimento de Sistemas na PUC-Goiás (Segundo período)
+- Estou aprendendo Java e orientação a objetos (famosa Poo) 
+- Procuro ajuda de todo programador (_experiente ou iniciante_) que possa me ajudar a melhorar então sinta-se livre para opinar e dar sugestões
+- Pergunte-me qualquer coisa sobre programação web e teremos uma conversa bem longa...
+- Fato engraçado: algumas vezes (_pra não dizer sempre_) eu acabo sonhando com programação (_espero que não seja só eu_)
 
 <div align="center">
   <a href="https://github.com/Mr-nobody2001">

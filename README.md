@@ -1,7 +1,5 @@
 # Olá, me chamo Gabriel Barbosa e esse é meu Github
 
-Esses são os cinquenta (**menos quarenta e cinco**) fatos sobre mim:
-
 - Análise e Desenvolvimento de Sistemas na PUC-Goiás (Terceiro período)
 - Aprendendo: Java JDBC 
 - Conhecimento sólido em Backend com Java e noções de Frontend com JavaScript

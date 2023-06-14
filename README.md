@@ -14,11 +14,11 @@
 </div>
   
  <div style="display: inline_block," align="center"><br>
-  <img align="center" alt="" height="60" width="80" src="https://raw.githubusercontent.com/P-a-u-l-o/skill-icons/main/icons/HTML.svg">
-  <img align="center" alt="" height="60" width="80" src="https://raw.githubusercontent.com/P-a-u-l-o/skill-icons/main/icons/CSS.svg">
-  <img align="center" alt="" height="60" width="80" src="https://raw.githubusercontent.com/P-a-u-l-o/skill-icons/main/icons/JavaScript.svg">
-  <img align="center" alt="" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="" height="60" width="80" src="https://raw.githubusercontent.com/P-a-u-l-o/skill-icons/main/icons/Git.svg">
-  <img align="center" alt="" height="60" width="80" src="https://raw.githubusercontent.com/P-a-u-l-o/skill-icons/main/icons/Github-Dark.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/html5-plain.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/css3-plain.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/javascript-plain.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/java-original-wordmark.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/postgresql-plain.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/hibernate.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/git-plain.svg">
 </div><br>

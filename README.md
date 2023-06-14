@@ -1,7 +1,7 @@
 # Olá, me chamo Gabriel Barbosa e esse é meu Github
 
 - Análise e Desenvolvimento de Sistemas na PUC-Goiás (Terceiro período)
-- Aprendendo: Java JDBC 
+- Aprendendo: Java JPA (Hibernate)
 - Conhecimento sólido em Backend com Java e noções de Frontend com JavaScript
 
 <div style="display: inline-block;" align="center">

@@ -19,6 +19,7 @@
   <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/javascript-plain.svg">
   <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/java-original-wordmark.svg">
   <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/postgresql-plain.svg">
+  <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/spring-icon-svgrepo-com.svg">
   <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/hibernate.svg">
   <img align="center" alt="" height="60" width="80" src="https://github.com/Mr-nobody2001/Icons/blob/main/git-plain.svg">
 </div><br>

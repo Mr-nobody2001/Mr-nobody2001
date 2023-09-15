@@ -1,6 +1,8 @@
-# Olá
+# Olá, me chamo Gabriel Barbosa e esse é meu Github
 
-Eu sou um desenvolvedor com especialização em back-end, mas também possuo experiência em desenvolvimento front-end. Minha experiência é sólida em Java; no entanto, atualmente, meu enfoque principal está voltado para o ecossistema JavaScript, abrangendo tanto o desenvolvimento no lado do cliente quanto no servidor. Estou ansioso por uma oportunidade de aplicar meu conhecimento em projetos do mundo real.
+- Análise e Desenvolvimento de Sistemas na PUC-Goiás (Terceiro período)
+- Eu sou um desenvolvedor com especialização em back-end, mas também possuo experiência em desenvolvimento front-end. 
+- Minha experiência é sólida em Java; no entanto, atualmente, meu enfoque principal está voltado para o ecossistema JavaScript, abrangendo tanto o desenvolvimento no lado do cliente quanto no servidor. 
 
 <div style="display: inline-block;" align="center">
   <a href="https://github.com/Mr-nobody2001">
